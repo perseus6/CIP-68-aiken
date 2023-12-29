@@ -1,0 +1,52 @@
+{
+  "721": {
+    "<policy_id>": {
+      "<asset_name>": {
+        "name": "Relic Print #0001",
+        "image": "ar://XxUIhdq643Ajb1StXYMLmfTOZyzLdSYwkw933sZ9xTw",
+        "mediaType": "image/jpg",
+        "description": "Photos recovered from the Cornucopias imaging archive",
+        "files": [
+          {
+            "name": "front-web-resolution",
+            "mediaType": "image/jpg",
+            "src": "ar://COoHMYC0QjCL1CO9k0HjEm8w8ab6f7omM4IJKDppt0c"
+          },
+          {
+            "name": "back-web-resolution",
+            "mediaType": "image/jpg",
+            "src": "ar://C9eCvtGM-lLu_TM0qwaR_1jR438a6xHPGb4D69jg3bk"
+          },
+          {
+            "name": "back-high-res",
+            "mediaType": "image/jpg",
+            "src": "ar://9iXb-DHw26OYQ1R6QHNHVm4eYXgDb9rxSwqjXxnb-pI"
+          }
+        ],
+        "typeClass": "",
+        "project_name": "Cornucopias Game",
+        "attributes": {
+          "image_description": "Pond at sunrise",
+          "archive": "Relic Print",
+          "printing_company": "Cornucopias Imaging",
+          "capture_location": "Solace",
+          "camera_model": "",
+          "photographer": "",
+          "image_type": "Film",
+          "format": "Medium Format",
+          "focal_length": "14mm",
+          "iso": "400",
+          "shutter_speed": "1/400",
+          "aperture": "f/4.0",
+          "captured_at": ""
+        },
+        "links": {
+          "website": "https://cornucopias.io",
+          "discord": "https://discord.gg/cornucopiasofficial",
+          "link_tree": "https://linktr.ee/CornucopiasGame"
+        }
+      },
+      "version": 1
+    }
+  }
+}
